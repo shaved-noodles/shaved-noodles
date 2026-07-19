@@ -1,3 +1,4 @@
+- 一位喜欢吃刀削面的vibe coder
 - 👋 Hi, I’m @shaved-noodles. This name comes from a type of delicious noodle in China. I love shaved noodles!
 - 👀 I’m interested in vibe coding and visulizations(and anything interesting)
 
